@@ -11,6 +11,7 @@
 # CHỦ ĐỀ
 - CÂY PHÂN ĐOẠN CẬP NHẬT TRỄ
 # TÀI LIỆU THAM KHẢO
+- https://thuytrangcoding.wordpress.com/2018/02/14/ds-st-lazy/
 - https://vnoi.info/wiki/algo/data-structures/segment-tree-extend.md#2-lazy-propagation
 - https://www.geeksforgeeks.org/lazy-propagation-in-segment-tree/
 - https://www.hackerearth.com/practice/notes/segment-tree-and-lazy-propagation/
