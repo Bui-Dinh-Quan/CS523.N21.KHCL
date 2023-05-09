@@ -11,3 +11,7 @@
 # CHỦ ĐỀ
 - CÂY PHÂN ĐOẠN CẬP NHẬT TRỄ
 # TÀI LIỆU THAM KHẢO
+- https://vnoi.info/wiki/algo/data-structures/segment-tree-extend.md#2-lazy-propagation
+- https://www.geeksforgeeks.org/lazy-propagation-in-segment-tree/
+- https://www.hackerearth.com/practice/notes/segment-tree-and-lazy-propagation/
+- https://www.youtube.com/watch?v=xuoQdt5pHj0&ab_channel=TusharRoy-CodingMadeSimple
